@@ -1,3 +1,3 @@
 # Page View Time Series Visualizer
 
-This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
+Second project to obtain certification in [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) at [freeCodeCamp](https://www.freecodecamp.org/learn/), following the provided [instructions](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer).
